@@ -1,2 +1,4 @@
 /ad-env
 config.ini
+.vscode
+__pycache__
